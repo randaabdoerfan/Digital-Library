@@ -2,6 +2,12 @@
 
 Welcome to the Digital Library! This project is a web application designed to help users manage and explore a collection of digital books.
 
+![Digital Library Home in light mode](./home.PNG)
+![Digital Library Home in Dark mode](./home_dark.PNG)
+![Books page ](./books.PNG)
+![Login page ](./login.PNG)
+![Sign Up page](./signup.PNG)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
